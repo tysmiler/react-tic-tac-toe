@@ -1,3 +1,3 @@
 # react-tic-tac-toe
 
-First React Project.
+First React Project. A Tic Tac Toe Game.
